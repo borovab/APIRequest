@@ -180,7 +180,7 @@ const Product = ({
         </button>
       )}
       <button className="deletebtn" onClick={() => fshiePostin(id)}>
-        Delete Product
+        Delete Productt
       </button>
     </div>
   );
